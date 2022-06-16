@@ -15,7 +15,7 @@
 
 \title{FAKESTAGRAM}
 
-\author{Integrantes:                                        Irais Aguirre Valente y Judith Maldonado Garcia}
+\author{Integrantes:                                        Bernardo santos lopez y oswaldoo corona perez}
 
 \begin{document}
 \maketitle
