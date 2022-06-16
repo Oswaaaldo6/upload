@@ -1,0 +1,42 @@
+\documentclass{article}
+
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+\title{FAKESTAGRAM}
+
+\author{Integrantes:                                        Irais Aguirre Valente y Judith Maldonado Garcia}
+
+\begin{document}
+\maketitle
+\begin{center}
+{\Huge Base de Datos no Convencionales} 
+\end{center}
+
+\begin{abstract}
+   Proyecto para la evaluación del segundo parcial en la experiencia educativa Base de Datos no Convencionales, impartida por el Dr. Adolfo Centeno Téllez en la Universidad Veracruzana dentro del programa educativo de Ingeniería de software.
+\end{abstract}
+
+\section{Visión}
+Fakestagram es una aplicación para subir fotos en linea de manera gratuita ,permitiendo subir imágenes que el usuario logueado elija para almacenar dentro de la aplicación.
+
+Cada imagen que un usuario distinto ingrese aparecerá en un feed con todas las imágenes que se almacenen dentro del Storage y en el collection de imágenes de Firestone, siendo el objetivo de Fakestagram compartir todas las fotos que se almacenan en una base de datos común para todos los usuarios registrados. 
+
+Esta aplicación web, aparte del feed de imágenes, cuenta con una pagina de login para poder registrase ya sea con una cuenta de Facebook o de Google.
+
+\section{Alcance}
+En el presente proyecto de software se pretende rectificar lo aprendido en el segundo parcial de Base de Datos no Convencionales, aplicando el uso de Firebase junto con React, implementando algunas herramientas de Firebase como Firestone, Storage y la autenticación que proporciona Firebase por medio de las cuentas de Facebook y Google.
+
+Para su despliegue se ha utilizado el host que proporciona Firebase.
+
+\end{document}
